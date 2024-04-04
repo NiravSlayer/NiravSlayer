@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiravSlayer
 - 👀 I’m interested in music
-- 🌱 I’m currently learning HTML,CSS,C.
+- 🌱 I’m currently learning HTML,CSS,C,MICROSOFT-SQL.
 - 💞️ I’m looking to collaborate on Codes
 - 📫 How to reach me Email
 - 😄 Pronouns: MALE

@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0820,40:2d1b69,80:6b3fa0,100:c084fc&height=180&section=header&text=Nirav%20Nimavat&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Coder%20%7C%20Gamer%20%7C%20Anime%20%26%20Cartoon%20Lover&descAlignY=58&descSize=17&descColor=d8b4fe" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0820,40:2d1b69,80:6b3fa0,100:c084fc&height=180&section=header&text=Nirav+Nimavat&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=CS+Student+%7C+Coder+%7C+Gamer+%7C+Anime+Lover&descAlignY=58&descSize=17&descColor=d8b4fe" />
 
 <br/>
 
@@ -161,4 +161,4 @@ philosophy : "If it works, don't touch it. If it doesn't, Stack Overflow."
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6b3fa0,100:0d0820&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6b3fa0,100:0d0820&height=120&section=footer&animation=fadeIn&text=+" />

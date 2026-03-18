@@ -6,7 +6,7 @@
 <!-- ANIME QUOTE BANNER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=3000&pause=800&color=67e8f9&center=true&vCenter=true&width=700&lines=%E2%96%B6+%22The+only+ones+who+should+kill+are+those+who+are+prepared+to+be+killed.%22+-+Code+Geass;%E2%96%B6+%22Hard+work+is+worthless+for+those+that+don%27t+believe+in+themselves.%22+-+Naruto;%E2%96%B6+%22If+you+don%27t+take+risks%2C+you+can%27t+create+a+future.%22+-+One+Piece;%E2%96%B6+%22Whatever+you+lose%2C+you%27ll+find+it+again.+But+what+you+throw+away+you%27ll+never+get+back.%22" alt="Anime Quotes" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=3000&pause=800&color=67e8f9&center=true&vCenter=true&width=700&lines=%22If+you+dont+take+risks+you+cant+create+a+future.%22+-+One+Piece;%22Hard+work+is+worthless+for+those+that+dont+believe+in+themselves.%22+-+Naruto;%22Knowing+your+own+weakness+is+the+first+step+to+surpassing+it.%22+-+AOT;%22The+future+belongs+to+those+who+believe+in+their+dreams.%22+-+Code+Geass" alt="Anime Quotes" />
 
 </div>
 
@@ -183,7 +183,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NiravSlayer&theme=algolia&no-frame=false&margin-w=10&row=1&column=6" width="700" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=NiravSlayer&theme=darkhub&no-frame=true&margin-w=12&row=1&column=6&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" width="700" alt="GitHub Trophies" />
 
 </div>
 
@@ -222,7 +222,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3500&pause=1000&color=67e8f9&center=true&vCenter=true&width=600&lines=%22Code+like+Senku.+Fight+like+Goku.+Plan+like+Lelouch.%22;%22Press+Start+to+Continue...%22+%F0%9F%8E%AE;Thanks+for+visiting+NiravSlayer%27s+profile+%F0%9F%91%BE" alt="Footer Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3500&pause=1000&color=67e8f9&center=true&vCenter=true&width=600&lines=%22Code+like+Senku.+Fight+like+Goku.+Plan+like+Lelouch.%22;Thanks+for+visiting+NiravSlayers+profile!" alt="Footer Quote" />
 
 </div>
 

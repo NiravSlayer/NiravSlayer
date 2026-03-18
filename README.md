@@ -1,16 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0820,40:2d1b69,80:6b3fa0,100:c084fc&height=180&section=header&text=Nirav+Nimavat&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=CS+Student+%7C+Coder+%7C+Gamer+%7C+Anime+Lover&descAlignY=58&descSize=17&descColor=d8b4fe" />
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:1a0a3a,50:2d1b69,75:0e4d7b,100:0891b2&height=200&section=header&text=Nirav+Nimavat&fontSize=55&fontColor=e9d5ff&animation=fadeIn&fontAlignY=36&desc=NiravSlayer+%7C+CS+Student+%7C+Coder+%7C+Gamer+%7C+Anime+Lover&descAlignY=55&descSize=16&descColor=67e8f9" />
 
 <br/>
 
+<!-- ANIME QUOTE BANNER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2800&pause=1200&color=c084fc&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Nirav+%F0%9F%91%BE;CS+Student+%7C+Code+%7C+Build+%7C+Break+%7C+Repeat;Gamer+after+hours+%F0%9F%8E%AE;Anime+%26+Cartoon+addict+%F0%9F%8C%80;Always+curious%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=3000&pause=800&color=67e8f9&center=true&vCenter=true&width=700&lines=%E2%96%B6+%22The+only+ones+who+should+kill+are+those+who+are+prepared+to+be+killed.%22+-+Code+Geass;%E2%96%B6+%22Hard+work+is+worthless+for+those+that+don%27t+believe+in+themselves.%22+-+Naruto;%E2%96%B6+%22If+you+don%27t+take+risks%2C+you+can%27t+create+a+future.%22+-+One+Piece;%E2%96%B6+%22Whatever+you+lose%2C+you%27ll+find+it+again.+But+what+you+throw+away+you%27ll+never+get+back.%22" alt="Anime Quotes" />
 
-<br/><br/>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/NiravSlayer?style=for-the-badge&logo=github&logoColor=e9d5ff&label=Followers&color=6b3fa0&labelColor=0d0820)](https://github.com/NiravSlayer)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=NiravSlayer&style=for-the-badge&label=Profile+Views&color=6b3fa0&labelColor=0d0820)](https://github.com/NiravSlayer)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-niravnimavat01-6b3fa0?style=for-the-badge&logo=gmail&logoColor=e9d5ff&labelColor=0d0820)](mailto:niravnimavat01@gmail.com)
+<br/>
+
+<!-- MAIN TYPING -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=Hey+there%21+I%27m+Nirav+%F0%9F%91%BE;CS+Student+%7C+Coder+%7C+Builder;Level+Up+Every+Single+Day+%F0%9F%8E%AE;Anime%3F+Always.+Cartoons%3F+Forever.+%F0%9F%8C%80;Debugging+life+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<!-- BADGES -->
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/NiravSlayer?style=for-the-badge&logo=github&logoColor=67e8f9&label=Followers&color=0e4d7b&labelColor=0a0a1a)](https://github.com/NiravSlayer)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=NiravSlayer&style=for-the-badge&label=Profile+Views&color=2d1b69&labelColor=0a0a1a)](https://github.com/NiravSlayer)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-niravnimavat01-6b21a8?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=0a0a1a)](mailto:niravnimavat01@gmail.com)
 
 </div>
 
@@ -18,110 +34,126 @@
 
 ---
 
-## 🧬 About Me
+## ⚡ Character Stats
 
-```yaml
-name       : Nirav Nimavat
-alias      : NiravSlayer
-location   : India 🇮🇳
-education  : Computer Science Student
-
-identity:
-  - Coder        → building things that (mostly) work
-  - Gamer        → yes, I blame the ping
-  - Anime Lover  → currently watching something great
-  - Cartoon Fan  → never outgrowing it
-
-currently:
-  - learning  : [ Full-Stack Dev, DSA, IoT ]
-  - building  : [ Gift Store App, HR Management System ]
-
-philosophy : "If it works, don't touch it. If it doesn't, Stack Overflow."
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    — PLAYER PROFILE —                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name      ›  Nirav Nimavat          Alias  ›  NiravSlayer  ║
+║  Class     ›  CS Student             Server ›  India 🇮🇳     ║
+╠══════════════════════════════════════════════════════════════╣
+║  SKILLS                                                      ║
+║  ├─ Coding       ████████████░░░░  [Leveling Up]            ║
+║  ├─ Problem Solv ███████████░░░░░  [In Training]            ║
+║  ├─ Gaming       ████████████████  [MAX — I blame ping]     ║
+║  ├─ Anime IQ     ████████████████  [MAX — Elite Watcher]    ║
+║  └─ IoT/Hardware ████████░░░░░░░░  [Exploring]              ║
+╠══════════════════════════════════════════════════════════════╣
+║  Currently Building › Gift Store App + HR Management System ║
+║  Currently Learning › Full-Stack Dev + DSA + IoT            ║
+║  Life Philosophy   › "If it compiles, ship it." 🚀          ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌸 Anime Corner
 
-<br/>
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-2d1b69?style=for-the-badge&logo=python&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/C%2FC++-2d1b69?style=for-the-badge&logo=c%2B%2B&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/JavaScript-2d1b69?style=for-the-badge&logo=javascript&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/Java-2d1b69?style=for-the-badge&logo=openjdk&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/Dart-2d1b69?style=for-the-badge&logo=dart&logoColor=c084fc" />
-</p>
-
-<br/>
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-2d1b69?style=for-the-badge&logo=html5&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/CSS3-2d1b69?style=for-the-badge&logo=css3&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/Flutter-2d1b69?style=for-the-badge&logo=flutter&logoColor=c084fc" />
-</p>
-
-<br/>
-
-**Backend & Database**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-2d1b69?style=for-the-badge&logo=node.js&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/DBMS-2d1b69?style=for-the-badge&logo=postgresql&logoColor=c084fc" />
-</p>
-
-<br/>
-
-**Hardware & Other**
-
-<p>
-  <img src="https://img.shields.io/badge/IoT-2d1b69?style=for-the-badge&logo=arduino&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/Git-2d1b69?style=for-the-badge&logo=git&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/VS%20Code-2d1b69?style=for-the-badge&logo=visual-studio-code&logoColor=c084fc" />
-</p>
-
-<br/>
-
----
-
-## 🚀 Projects
-
-<br/>
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎁 **Customizable Gift Store** | A platform where users can personalize and order custom gifts | Flutter, Node.js, DBMS |
-| 🏢 **HR Management System** | Full system to manage employees, attendance & payroll | Java / Web Stack, DBMS |
-
-<br/>
-
----
-
-## 📊 GitHub Stats
+> *"In this world, wherever there is light — there are also shadows."*
+> — **Madara Uchiha**, Naruto Shippuden
 
 <div align="center">
 
+| 🔥 Favourite Genres | ⚔️ Top Picks | 🎭 Mood Right Now |
+|:---:|:---:|:---:|
+| Shonen · Isekai · Mecha | Naruto · One Piece · AOT | Just finished an arc 😤 |
+| Psychological · Action | Code Geass · Death Note | Already starting the next one |
+
+</div>
+
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=NiravSlayer&theme=midnight-purple&background=0d0820&border=6b3fa0&stroke=6b3fa0&ring=c084fc&fire=f0abfc&currStreakNum=e9d5ff&currStreakLabel=c084fc&sideNums=d8b4fe&sideLabels=a78bfa&dates=7c3aed&border_radius=10&width=650" alt="GitHub Streak" />
+<!-- ANIME DIVIDER -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=500&color=a855f7&center=true&vCenter=true&width=700&lines=%E2%80%BA%E2%80%BA%E2%80%BA+PLUS+ULTRA+%E2%80%BA%E2%80%BA%E2%80%BA+%7C+NEVER+GIVE+UP+%7C+BELIEVE+IT+%7C+I+AM+THE+BONE+OF+MY+SWORD+%7C+PLUS+ULTRA" alt="Anime Banner" />
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiravSlayer&show_icons=true&theme=midnight-purple&bg_color=0d0820&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&border_color=6b3fa0&border_radius=10" width="480" alt="GitHub Stats" />
+---
 
-<br/><br/>
+## 🛠️ Tech Arsenal
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiravSlayer&layout=compact&theme=midnight-purple&bg_color=0d0820&title_color=c084fc&text_color=e9d5ff&border_color=6b3fa0&border_radius=10" width="380" alt="Top Languages" />
+<br/>
 
-<br/><br/>
+**⚔️ Languages — My Jutsu**
 
-<img src="https://github-profile-trophy.vercel.app/?username=NiravSlayer&theme=discord&no-frame=false&margin-w=10&row=1&column=6&title=Stars,Commits,Followers,Repositories,PullRequest,Issues" width="700" alt="Trophies" />
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/C%2FC++-0a0a1a?style=for-the-badge&logo=c%2B%2B&logoColor=c084fc&labelColor=2d1b69" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/Java-0a0a1a?style=for-the-badge&logo=openjdk&logoColor=c084fc&labelColor=2d1b69" />
+  <img src="https://img.shields.io/badge/Dart-0a0a1a?style=for-the-badge&logo=dart&logoColor=67e8f9&labelColor=0e4d7b" />
+</p>
+
+<br/>
+
+**🌐 Frontend & Mobile — My World**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=f9a8d4&labelColor=6b21a8" />
+  <img src="https://img.shields.io/badge/CSS3-0a0a1a?style=for-the-badge&logo=css3&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/Flutter-0a0a1a?style=for-the-badge&logo=flutter&logoColor=c084fc&labelColor=2d1b69" />
+</p>
+
+<br/>
+
+**🔧 Backend & Database — My Power**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0a0a1a?style=for-the-badge&logo=node.js&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/DBMS-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=c084fc&labelColor=2d1b69" />
+</p>
+
+<br/>
+
+**🤖 Hardware & Tools — My Gear**
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-0a0a1a?style=for-the-badge&logo=arduino&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=f9a8d4&labelColor=6b21a8" />
+  <img src="https://img.shields.io/badge/VS+Code-0a0a1a?style=for-the-badge&logo=visual-studio-code&logoColor=67e8f9&labelColor=0e4d7b" />
+  <img src="https://img.shields.io/badge/Figma-0a0a1a?style=for-the-badge&logo=figma&logoColor=c084fc&labelColor=2d1b69" />
+</p>
+
+<br/>
+
+---
+
+## 🚀 Mission Log — Projects
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎁  CUSTOMIZABLE GIFT STORE                           [ACTIVE] │
+│  ─────────────────────────────────────────────────────────────  │
+│  A platform where users design & order personalized gifts       │
+│  Stack › Flutter · Node.js · DBMS                              │
+│  Status › In Development 🔨                                     │
+├─────────────────────────────────────────────────────────────────┤
+│  🏢  HR MANAGEMENT SYSTEM                              [ACTIVE] │
+│  ─────────────────────────────────────────────────────────────  │
+│  Full employee, attendance & payroll management system          │
+│  Stack › Java · Web Stack · DBMS                               │
+│  Status › In Development 🔨                                     │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -129,27 +161,60 @@ philosophy : "If it works, don't touch it. If it doesn't, Stack Overflow."
 
 ---
 
-## 🌐 Connect With Me
+## 📊 Battle Stats — GitHub
 
-<p>
-  <a href="https://github.com/NiravSlayer" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-NiravSlayer-2d1b69?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0820" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/nirav-nimavat-733a41279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nirav%20Nimavat-2d1b69?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0d0820" />
-  </a>&nbsp;
-  <a href="mailto:niravnimavat01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-niravnimavat01-2d1b69?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0820" />
-  </a>
-</p>
-<p>
-  <a href="https://discord.com/users/nirav1115" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-nirav1115-2d1b69?style=for-the-badge&logo=discord&logoColor=c084fc&labelColor=0d0820" />
-  </a>&nbsp;
-  <a href="https://instagram.com/n_nirav_90" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-n__nirav__90-2d1b69?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=0d0820" />
-  </a>
-</p>
+<div align="center">
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=NiravSlayer&theme=dark&background=0a0a1a&border=0e4d7b&stroke=2d1b69&ring=c084fc&fire=67e8f9&currStreakNum=e9d5ff&currStreakLabel=67e8f9&sideNums=d8b4fe&sideLabels=a78bfa&dates=0891b2&border_radius=10&width=650" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NiravSlayer&show_icons=true&bg_color=0a0a1a&title_color=67e8f9&icon_color=c084fc&text_color=e9d5ff&border_color=0e4d7b&border_radius=10" width="480" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiravSlayer&layout=compact&bg_color=0a0a1a&title_color=67e8f9&text_color=e9d5ff&border_color=2d1b69&border_radius=10" width="380" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiravSlayer&bg_color=0a0a1a&color=67e8f9&line=c084fc&point=f9a8d4&area=true&area_color=2d1b6940&hide_border=false&border_color=0e4d7b&radius=8&custom_title=NiravSlayer+Contribution+Graph&title_color=67e8f9" width="700" alt="Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NiravSlayer&theme=algolia&no-frame=false&margin-w=10&row=1&column=6" width="700" alt="Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+## 🌐 Find Me In The World
+
+<div align="center">
+
+<a href="https://github.com/NiravSlayer" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-NiravSlayer-0e4d7b?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=0a0a1a" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/nirav-nimavat-733a41279" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nirav+Nimavat-2d1b69?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0a0a1a" />
+</a>&nbsp;
+<a href="mailto:niravnimavat01@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-niravnimavat01-6b21a8?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0a0a1a" />
+</a>
+
+<br/><br/>
+
+<a href="https://discord.com/users/nirav1115" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-nirav1115-0e4d7b?style=for-the-badge&logo=discord&logoColor=67e8f9&labelColor=0a0a1a" />
+</a>&nbsp;
+<a href="https://instagram.com/n_nirav_90" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-n__nirav__90-6b21a8?style=for-the-badge&logo=instagram&logoColor=f9a8d4&labelColor=0a0a1a" />
+</a>
+
+</div>
 
 <br/>
 
@@ -157,8 +222,11 @@ philosophy : "If it works, don't touch it. If it doesn't, Stack Overflow."
 
 <div align="center">
 
-*"Code. Game. Watch Anime. Repeat."* 🎮✨
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3500&pause=1000&color=67e8f9&center=true&vCenter=true&width=600&lines=%22Code+like+Senku.+Fight+like+Goku.+Plan+like+Lelouch.%22;%22Press+Start+to+Continue...%22+%F0%9F%8E%AE;Thanks+for+visiting+NiravSlayer%27s+profile+%F0%9F%91%BE" alt="Footer Quote" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6b3fa0,100:0d0820&height=120&section=footer&animation=fadeIn&text=+" />
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,25:0e4d7b,50:2d1b69,75:6b21a8,100:0a0a1a&height=140&section=footer&animation=fadeIn&text=+" />

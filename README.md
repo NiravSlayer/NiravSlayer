@@ -96,15 +96,15 @@ Philosophy  : "Build it. Break it. Learn from it."
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiravSlayer&show_icons=true&bg_color=0a0a1a&title_color=67e8f9&icon_color=a78bfa&text_color=e9d5ff&border_color=1e1b4b&border_radius=8&hide_border=false" width="470" alt="GitHub Stats" />
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiravSlayer&layout=compact&bg_color=0a0a1a&title_color=67e8f9&text_color=e9d5ff&border_color=1e1b4b&border_radius=8" width="320" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=NiravSlayer&show_icons=true&bg_color=0a0a1a&title_color=67e8f9&icon_color=a78bfa&text_color=e9d5ff&border_color=1e1b4b&border_radius=8&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800" width="470" alt="GitHub Stats" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NiravSlayer&theme=dark&background=0a0a1a&border=1e1b4b&stroke=1e1b4b&ring=a78bfa&fire=67e8f9&currStreakNum=e9d5ff&currStreakLabel=67e8f9&sideNums=d8b4fe&sideLabels=a78bfa&dates=4c4980&border_radius=8&width=600" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiravSlayer&layout=compact&bg_color=0a0a1a&title_color=67e8f9&text_color=e9d5ff&border_color=1e1b4b&border_radius=8&langs_count=8&cache_seconds=1800" width="400" alt="Top Languages" />
 
 </div>
 
